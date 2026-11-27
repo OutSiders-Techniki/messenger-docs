@@ -1,7 +1,4 @@
 # Аналитика Graphen
-
-Материалы команды по требованиям, API, криптографии и приёмке проекта. DOCX и XLSX фиксируют срез на 18 ноября 2026 года. Актуальные изменения MSG-38 и их статус публикуются в репозиториях [фронтенда](https://github.com/OutSiders-Techniki/messenger-frontend/issues/12) и [бэкенда](https://github.com/OutSiders-Techniki/messenger-backend).
-
 - [Александр](alexander): Use Cases, D1, NFR, API-матрица, TC-10 и TC-20.
 - [Константин](konstantin): реестр требований и решений, анализ конкурентов, схемы и диаграмма покрытия 22 требований.
 
